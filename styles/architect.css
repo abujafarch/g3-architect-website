@@ -207,6 +207,17 @@ main {
     margin: 0;
 }
 
+/* footer section styles */
+footer{
+    margin: 0 auto;
+    max-width: 1400px;
+    background-color: #FFF4E7;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
 /* responsive media query */
 
 /* mobile devices */
